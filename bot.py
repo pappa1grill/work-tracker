@@ -8,7 +8,7 @@ from telegram.ext import (
     filters, ContextTypes
 )
 
-TOKEN = os.environ.get("8848510567: AAHjxbqFWbFXYTsVXYkom 6e8AuhZ6aXdkeY")
+TOKEN = os.environ.get("TOKEN")
 DB = "work.db"
 BREAK_MINUTES = 30
 
